@@ -1,0 +1,36 @@
+# 忽略图片文件
+*.png
+*.bmp
+*.svg
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.ico
+*.icon
+*.log*
+*.sh
+*.bat
+
+# package.json
+.umi
+.umi-production
+/dist
+.dockerignore
+.DS_Store
+.eslintignore
+*.toml
+docker
+.editorconfig
+Dockerfile*
+.gitignore
+.prettierignore
+LICENSE
+.eslintcache
+*.lock
+yarn-error.log
+.history
+CNAME
+/build
+serviceWorker.*
+package-lock.json
